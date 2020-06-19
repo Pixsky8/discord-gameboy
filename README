@@ -1,0 +1,10 @@
+A Discord gameboy bot to play with friends on Discord.
+You should create a dedicated channel to avoid flooding discussion channels since the bot uploads a lot of images.
+
+You will need to install docker.
+If you are on linux run install.sh the first time then start.sh afterwards.
+
+
+TODO:
+    - Queue for inputs
+    - Multiple channels can play at once
